@@ -1,0 +1,12 @@
+/Users/awesome/code/rust/hello-rust/target/debug/deps/tempfile-aac1a9549332de09.rmeta: /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/lib.rs /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/dir.rs /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/error.rs /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/file/mod.rs /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/file/imp/mod.rs /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/spooled.rs /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/util.rs /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/file/imp/unix.rs
+
+/Users/awesome/code/rust/hello-rust/target/debug/deps/tempfile-aac1a9549332de09.d: /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/lib.rs /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/dir.rs /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/error.rs /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/file/mod.rs /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/file/imp/mod.rs /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/spooled.rs /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/util.rs /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/file/imp/unix.rs
+
+/Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/lib.rs:
+/Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/dir.rs:
+/Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/error.rs:
+/Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/file/mod.rs:
+/Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/file/imp/mod.rs:
+/Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/spooled.rs:
+/Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/util.rs:
+/Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/file/imp/unix.rs:

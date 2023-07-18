@@ -1,0 +1,15 @@
+/Users/awesome/code/rust/hello-rust/target/debug/deps/markup5ever-7d934888ac0a62fb.rmeta: /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.11.0/lib.rs /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.11.0/data/mod.rs /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.11.0/interface/mod.rs /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.11.0/interface/tree_builder.rs /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.11.0/serialize.rs /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.11.0/util/buffer_queue.rs /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.11.0/util/smallcharset.rs /Users/awesome/code/rust/hello-rust/target/debug/build/markup5ever-42ad3596684289f0/out/generated.rs /Users/awesome/code/rust/hello-rust/target/debug/build/markup5ever-42ad3596684289f0/out/named_entities.rs
+
+/Users/awesome/code/rust/hello-rust/target/debug/deps/markup5ever-7d934888ac0a62fb.d: /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.11.0/lib.rs /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.11.0/data/mod.rs /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.11.0/interface/mod.rs /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.11.0/interface/tree_builder.rs /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.11.0/serialize.rs /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.11.0/util/buffer_queue.rs /Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.11.0/util/smallcharset.rs /Users/awesome/code/rust/hello-rust/target/debug/build/markup5ever-42ad3596684289f0/out/generated.rs /Users/awesome/code/rust/hello-rust/target/debug/build/markup5ever-42ad3596684289f0/out/named_entities.rs
+
+/Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.11.0/lib.rs:
+/Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.11.0/data/mod.rs:
+/Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.11.0/interface/mod.rs:
+/Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.11.0/interface/tree_builder.rs:
+/Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.11.0/serialize.rs:
+/Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.11.0/util/buffer_queue.rs:
+/Users/awesome/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.11.0/util/smallcharset.rs:
+/Users/awesome/code/rust/hello-rust/target/debug/build/markup5ever-42ad3596684289f0/out/generated.rs:
+/Users/awesome/code/rust/hello-rust/target/debug/build/markup5ever-42ad3596684289f0/out/named_entities.rs:
+
+# env-dep:OUT_DIR=/Users/awesome/code/rust/hello-rust/target/debug/build/markup5ever-42ad3596684289f0/out
